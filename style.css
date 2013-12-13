@@ -11,3 +11,11 @@
 h2 {
 	font-family: 'PoliticsHeadBold', 'Source Sans Pro', 'sourcesanspro', sans-serif;
 }
+
+.footer {
+	font-size: 80%;
+}
+
+sup {
+	font-size: 60%;
+}
