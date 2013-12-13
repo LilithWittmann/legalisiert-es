@@ -1,15 +1,19 @@
 body {
-	background-color: #f7931e;
+	background: url('legalisiertes_sonne.png') #f7931e center;
+	/*background: url('legalisiertes_hand.png') right bottom;*/
+
+}
+
+.wrapper {
+	font-family: 'Source Sans Pro', 'sourcesanspro', sans-serif;
+	width: 50%;
+	margin: 13% auto;
+	position: relative;
 }
 
 .content {
-	font-family: 'Source Sans Pro', 'sourcesanspro', sans-serif;
-	background: #FFFFFF;
 	display: none;
-	width: 50%;
-	height: ;
-	margin: 13% auto;
-	position: relative;
+	background-color: #FFFFFF;
 	padding: 0.3em 1em 0.3em 1em;
 }
 
@@ -22,9 +26,21 @@ h2 {
 }
 
 .footer {
-	font-size: 80%;
+	font-size: 70%;
 }
 
 sup {
 	font-size: 60%;
+}
+
+.menu {
+	position: relative;
+}
+
+.menu li {
+	display: inline;
+	list-style-type: none;
+	padding: 20px;
+	padding: 0.3em 1em 0.3em 1em;
+	background: #FFFFFF;
 }
