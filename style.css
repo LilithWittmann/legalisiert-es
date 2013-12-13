@@ -1,7 +1,16 @@
+body {
+	background-color: #f7931e;
+}
+
 .content {
 	font-family: 'Source Sans Pro', 'sourcesanspro', sans-serif;
 	background: #FFFFFF;
 	display: none;
+	width: 50%;
+	height: ;
+	margin: 13% auto;
+	position: relative;
+	padding: 0.3em 1em 0.3em 1em;
 }
 
 .visible{
